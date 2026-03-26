@@ -22,6 +22,6 @@ jobs:
         run: echo "This is my step2"
 
       - name: Pipeline Break
-        exit 1
+        run: echo"Pipeline is fixed"
 
           
